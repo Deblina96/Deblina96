@@ -1,0 +1,9 @@
+{
+  "name": "block",
+  "version": "0.0.0",
+  "description": "Block",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

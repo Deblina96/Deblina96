@@ -1,0 +1,15 @@
+C:\git\Practice Folder\Parallel_Function\bin\Debug\net6.0\Parallel_Function.exe
+C:\git\Practice Folder\Parallel_Function\bin\Debug\net6.0\Parallel_Function.deps.json
+C:\git\Practice Folder\Parallel_Function\bin\Debug\net6.0\Parallel_Function.runtimeconfig.json
+C:\git\Practice Folder\Parallel_Function\bin\Debug\net6.0\Parallel_Function.dll
+C:\git\Practice Folder\Parallel_Function\bin\Debug\net6.0\Parallel_Function.pdb
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.csproj.AssemblyReference.cache
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.AssemblyInfoInputs.cache
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.AssemblyInfo.cs
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.csproj.CoreCompileInputs.cache
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.dll
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\refint\Parallel_Function.dll
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.pdb
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\Parallel_Function.genruntimeconfig.cache
+C:\git\Practice Folder\Parallel_Function\obj\Debug\net6.0\ref\Parallel_Function.dll
