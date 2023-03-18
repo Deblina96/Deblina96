@@ -1,0 +1,3 @@
+C:\git\PracticeFolder\JavaScript\Practice\obj\Debug\Practice.njsproj.AssemblyReference.cache
+C:\git\PracticeFolder\JavaScript\Practice\obj\Debug\Practice.njsproj.CoreCompileInputs.cache
+C:\git\PracticeFolder\JavaScript\Practice\bin\Microsoft.NodejsTools.WebRole.dll
