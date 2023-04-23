@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>DOM Manupulation</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h1>Different Sports</h1>
+<ul id="sport">
+  <li id="football"><button>Football</button></li>
+  <li id="cricket">Cricket</li>
+  <liid="hockey">Hockey</liid=>
+  <li id="badminton">Badminton</li>
+  <li id="tennis">Tennis</li>
+</ul>
+
+
+
+
+
+<!--
+  <h1 id="main-heading">Event Listener</h1>
+  <div class="container">
+    <button class="box" onclick="show()">Reavel More</button>
+    <div id="hide" class="hidden content box" style="display:none;"> fgcxvmsjaymxb<,cxfcrzguowertzuikjnhbvcxyxcvbnm,mnhgfdsdftgzuikjhgfcdxcvbnjmknbvc</div>
+
+  </div>
+-->
+  <!--
+  <h1 id="main-heading">Event Listener</h1>
+  <div class="container">
+    <div class="box">
+      <h1 class="box" id="box-1">Choice 1</h1>
+      <button>Enter</button>
+    </div>
+    <div class="box">
+      <h1 class="box" id="box-2">Choice 2</h1>
+      <button class="btntwo">Enter</button>
+    </div>
+    <div class="box">
+      <h1 class="box" id="box-3">Choice 3</h1>
+      <button>Enter</button>
+    </div>
+  </div> -->
+
+
+
+
+
+<!--div is the parent node of both h1 and ul, h1 and ul are each others sibling-->
+  <script>
+
+    document.querySelector("#sport").addEventListener("click", function(e){
+
+      console.log(e.taget.getAttribute("id") + "is clicked")
+       const target = e.target
+
+       if(target.match("li")){
+
+      target.style.backgroundColor = "cyan"
+
+       }
+      
+    })
+
+//using Evenet Listener
+//document.querySelector(".box").addEventListener("click", function show(){
+//document.getElementById("hide").style.display="block"
+//})
+
+
+/*
+<   function show(){
+document.getElementById("hide").style.display="bold"
+}>
+*/  
+  </script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>DOM Manupulation</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="container">
+     <h1 id="main-heading">My favourite movies</h1>
+     <ul>
+         <li class="list-items">Harry Poter</li>
+         <li class="list-items">Marvel</li>
+         <li class="list-items">Inception</li>
+         <li class="list-items">Catch me if you can</li>
+         <li class="list-items">Three Idiots</li>
+
+     </ul>
+
+  </div>
+<!--div is the parent node of both h1 and ul, h1 and ul are each others sibling-->
+  <script src="index.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  
+</body>
+
+</html>

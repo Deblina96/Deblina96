@@ -1,0 +1,32 @@
+#class{
+
+  font-style: italic;
+  color: yellow;
+  padding: 30;
+}
+
+.container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+li:hover {
+  background-color: #f5f5f5;
+}
